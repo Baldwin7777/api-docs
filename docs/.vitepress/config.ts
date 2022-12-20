@@ -34,6 +34,7 @@ export default defineConfig({
           { text: "Core", link: "/core" },
           { text: "Game Play", link: "/game-play" },
           { text: "Events", link: "/events" },
+          { text: "Service", link: "/service" },
         ],
       },
     ],

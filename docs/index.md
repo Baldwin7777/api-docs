@@ -19,7 +19,7 @@ If an ability is interrupted during the Cast phase, it will immediately reset to
 ## Properties
 
 | Property Name | Return Type | Description | Tags |
-| -------- | ----------- | ----------- | ---- |
+| ------- | ------ | ------- | ----- |
 | `isEnabled` | `boolean` | Turns an Ability on/off. It stays on the Player but is interrupted if `isEnabled` is set to `false` during an active Ability. True by default. | Read-Write |
 | `canActivateWhileDead` | `boolean` | Indicates if the Ability can be used while the owning Player is dead. False by default. | Read-Only |
 | `name` | `string` | The name of the Ability. | Read-Only |
